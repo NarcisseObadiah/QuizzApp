@@ -1,0 +1,12 @@
+.yellow {
+    background: #ffc107;
+}
+
+ .yellow p {
+    padding-top: 10px;
+    font-weight: 300;
+    font-size: 20px;
+    cursor: pointer;
+   
+} 
+
